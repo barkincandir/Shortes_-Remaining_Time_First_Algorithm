@@ -1,2 +1,2 @@
 # Shortes_-Remaining_Time_First_Algorithm
-SRTF calculates.
+You can calculate SRTF with this code.
